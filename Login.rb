@@ -18,8 +18,3 @@ Then(/^Click Button Send request for password$/) do
   click_button "Send request for password"
   sleep 2
 end
-
-Then(/^Click Button Send request for password$/) do
-  click_button "Send request for password"
-  sleep 2
-end
